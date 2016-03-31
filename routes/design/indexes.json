@@ -1,0 +1,56 @@
+[
+	{
+		"ddoc": "index_common",
+		"name": "index_common_doctype",
+		"type": "json",
+		"index": 
+		{
+			"fields": 
+			[
+				"docType"
+			]
+		}
+	},
+
+	{
+		"ddoc": "index_common",
+		"name": "index_common_at",
+		"type": "json",
+		"index": 
+		{
+			"fields": 
+			[
+				{"at": "desc"}
+			]
+		}
+	},
+
+	{
+		"ddoc": "index_user",
+		"name": "index_user_account",
+		"type": "json",
+		"index": 
+		{
+			"fields": 
+			[
+				"docType",
+				"account_id",
+				"account_pwd"
+			]
+		}
+	},
+
+	{
+		"ddoc": "index_dictionary",
+		"name": "index_dictionary_subject",
+		"type": "json",
+		"index": 
+		{
+			"fields": 
+			[
+				"docType",
+				"subject"
+			]
+		}
+	}
+]

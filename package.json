@@ -1,0 +1,17 @@
+{
+  "name": "GoGoGo",
+  "version": "0.0.1",
+  "description": "Go!Go!Go! app for Bluemix",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cloudant": "^1.4.1",
+    "q": "^1.4.1",
+    "restify": "^4.0.3"
+  },
+  "repository": {},
+  "engines": {
+    "node": "0.12.x"
+  }
+}

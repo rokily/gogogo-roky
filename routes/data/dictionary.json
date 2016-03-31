@@ -1,0 +1,62 @@
+[
+	{
+		"subject": "GENDER",
+		"key": 1,
+		"value": "MALE",
+		"description": "男"
+	},
+	{
+		"subject": "GENDER",
+		"key": 0,
+		"value": "FEMALE",
+		"description": "女"
+	},
+	{
+		"subject": "GENDER",
+		"key": -1,
+		"value": "UNKNOWN",
+		"description": "未知"
+	},
+	{
+		"subject": "ACTION_TYPE",
+		"key": 1,
+		"value": "LAUNCH",
+		"description": "发起"
+	},
+	{
+		"subject": "ACTION_TYPE",
+		"key": 2,
+		"value": "ATTEND",
+		"description": "参与"
+	},
+	{
+		"subject": "ACTION_TYPE",
+		"key": 3,
+		"value": "UNATTEND",
+		"description": "取消参与"
+	},
+	{
+		"subject": "ACTION_TYPE",
+		"key": 4,
+		"value": "FOLLOW",
+		"description": "关注"
+	},
+	{
+		"subject": "ACTION_TYPE",
+		"key": 5,
+		"value": "UNFOLLOW",
+		"description": "取消关注"
+	},
+	{
+		"subject": "IMAGE_SUBJECT",
+		"key": 1,
+		"value": "USER_AVATAR",
+		"description": "用户头像"
+	},
+	{
+		"subject": "IMAGE_SUBJECT",
+		"key": 2,
+		"value": "ACTIVITY_IMAGE",
+		"description": "活动图片"
+	}
+]
